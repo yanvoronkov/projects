@@ -1568,15 +1568,15 @@ body._touch .menu__list > li._active .menu__arrow {
 }
 
 .contacts-footer__item_phone {
-  background: url(/img/footer/icons/01.svg) 0 0 no-repeat;
+  background: url(img/footer/icons/01.svg) 0 0 no-repeat;
 }
 
 .contacts-footer__item_map {
-  background: url(/img/footer/icons/02.svg) 0 0 no-repeat;
+  background: url(img/footer/icons/02.svg) 0 0 no-repeat;
 }
 
 .contacts-footer__item_email {
-  background: url(/img/footer/icons/03.svg) 0 0 no-repeat;
+  background: url(img/footer/icons/03.svg) 0 0 no-repeat;
 }
 
 .footer__bottom {
